@@ -1,0 +1,28 @@
+# Ignore system files and folders
+*.log
+*.exe
+*.dll
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Ignore Windows system folders
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+AppData/
+Documents/
+Downloads/
+Favorites/
+Music/
+Pictures/
+Videos/
+node_modules/
